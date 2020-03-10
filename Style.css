@@ -13,6 +13,7 @@
     }
     .left-side{
         padding: 0px !important;
+        width: auto !important;
     }
     .mobile-hero{
         display: block !important;
