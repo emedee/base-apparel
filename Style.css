@@ -47,12 +47,6 @@
         margin-left: 30px !important;
         margin-right: 25px !important;
     }
-    #my-password{
-        padding: 10px 30px 10px 30px !important;
-        width: 230px !important;
-        margin-left: 30px !important;
-        margin-right: 25px !important;
-    }
     .error-icon{
         margin-left: -120px !important;
         margin-right: 90px;
@@ -123,13 +117,6 @@ body{
     width: 300px;
     border-radius: 50px;
     border: 1px solid hsl(0, 36%, 70%);
-}
-#my-password{
-    padding: 20px 30px 20px 30px;
-    width: 300px;
-    border-radius: 50px;
-    border: 1px solid hsl(0, 36%, 70%);
-    margin-top: 10px;
 }
 .error-icon{
     margin-left: -80px;
