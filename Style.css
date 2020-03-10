@@ -17,6 +17,7 @@
     }
     .mobile-hero{
         display: block !important;
+        width: auto !important;
         margin-top: 20px;
     }
     .we{
