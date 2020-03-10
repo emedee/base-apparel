@@ -1,4 +1,7 @@
 @media (max-width: 575.98px) {
+    body{
+        margin: 0px !important;
+    }
     .body{
         background: none !important;
         margin: 0px !important;
